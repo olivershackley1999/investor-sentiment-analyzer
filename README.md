@@ -4,9 +4,9 @@ Automated pipeline that analyzes earnings call transcripts to extract sentiment 
 
 # Demo
 
-https://github.com/user-attachments/assets/c5a975f5-b4ed-4cc4-b63b-603365612f82
+https://github.com/user-attachments/assets/76bcb83e-0ff1-4901-9b3d-5d44f40c26b9
 
-<video src="Azure%20Language%20Project.mov" controls onloadstart="this.playbackRate = 2.0;"></video>
+<video src="Azure%20Language%20Project%20copy.mov" controls onloadstart="this.playbackRate = 2.0;"></video>
 
 # What it does
 
