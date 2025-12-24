@@ -27,10 +27,10 @@ https://github.com/user-attachments/assets/76bcb83e-0ff1-4901-9b3d-5d44f40c26b9
 
 # Tech Stack
 
-* Azure Language Service - NLP tasks (sentiment, entities, key phrases, summarization)
-* Azure AI Foundry - Kimi-K2 Thinking for synthesis, insights, and report generation
-* Python 3.13 - Core pipeline for I/O and endpoint orchestration
-* Streamlit - Optional for interactive UI
+* **Azure Language Service** - NLP tasks (sentiment, entities, key phrases, summarization)
+* **Azure AI Foundry** - Kimi-K2 Thinking for synthesis, insights, and report generation
+* **Python 3.13** - Core pipeline for I/O and endpoint orchestration
+* **Streamlit** - Optional for interactive UI
 
 # Installation
 
@@ -39,7 +39,6 @@ https://github.com/user-attachments/assets/76bcb83e-0ff1-4901-9b3d-5d44f40c26b9
 1. Clone the repo
    git clone https://github.com/yourusername/earnings-sentiment-analyzer
    cd earnings-sentiment-analyzer
-
 
 2. Install dependencies
    pip install -r requirements.txt
@@ -56,7 +55,6 @@ https://github.com/user-attachments/assets/76bcb83e-0ff1-4901-9b3d-5d44f40c26b9
 
 4. Run the analysis
    python analyze_transcripts.py
-
 
 # Sample Output
 
