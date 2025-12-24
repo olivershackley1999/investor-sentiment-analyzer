@@ -4,6 +4,8 @@ Automated pipeline that analyzes earnings call transcripts to extract sentiment 
 
 # Demo
 
+https://github.com/user-attachments/assets/c5a975f5-b4ed-4cc4-b63b-603365612f82
+
 <video src="Azure%20Language%20Project.mov" controls onloadstart="this.playbackRate = 2.0;"></video>
 
 # What it does
@@ -59,10 +61,11 @@ Automated pipeline that analyzes earnings call transcripts to extract sentiment 
 # Sample Output
 
 **Language Service JSON Structure**
-
-![Language Service JSON Structure](Screenshot%202025-12-21%20at%205.59.33%E2%80%AFPM.png)
+<img width="1438" height="898" alt="language-service-output" src="https://github.com/user-attachments/assets/c605f6a3-f80a-4e35-88eb-0551195f9136" />
 
 **Markdown Report**
+
+https://github.com/user-attachments/assets/4aa4b5c5-6a38-466a-bb23-8ce8d0aba198
 
 <video src="Streamlit%20copy.mov" controls></video>
 
